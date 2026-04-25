@@ -142,7 +142,7 @@ module fifo #(
 **1. Compile:**
 
 ```bash
-iverilog -o sim_fifo src/fifo.v sim/fifo_tb.v
+iverilog -o sim_fifo src/fifo.v tb/fifo_tb.v
 ```
 
 **2. Run:**
