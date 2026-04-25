@@ -1,6 +1,13 @@
 # FIFO Memory
 A Synchronous FIFO Implementation for FPGA-Based Systems
 
+![Platform](https://img.shields.io/badge/Platform-FPGA-blue)
+![Editor](https://img.shields.io/badge/Editor-VSCode-blue)
+![Simulator](https://img.shields.io/badge/Simulator-Icarus%20Verilog-blue)
+![Waveform](https://img.shields.io/badge/Waveform-GTKWave-green)
+![Language](https://img.shields.io/badge/Language-Verilog-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ---
 
 ## Overview
