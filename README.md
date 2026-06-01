@@ -216,7 +216,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Author
+## Additional Notes
 
 Developed as a digital design study project.
   
