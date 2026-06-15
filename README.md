@@ -42,7 +42,7 @@ FIFO_Memory/
 ├── tb/
 │   └── fifo_tb.v
 │
-├── LICENSE
+├── License
 │
 └── README.md
 ```
