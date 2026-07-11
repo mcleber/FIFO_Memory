@@ -5,7 +5,7 @@ A Synchronous FIFO Implementation for FPGA-Based Systems
 ![IDE](https://img.shields.io/badge/IDE-VSCode-blue)
 ![Simulator](https://img.shields.io/badge/Simulator-Icarus%20Verilog-blue)
 ![Waveform](https://img.shields.io/badge/Waveform-GTKWave-green)
-![Language](https://img.shields.io/badge/Language-Verilog-orange)
+![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
